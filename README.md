@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=190&section=header&text=Hi%2C%20I'm%20Zameer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20builder%20%C2%B7%20Shipping%20small%20ideas%20into%20real%20products&descSize=15&descAlignY=60" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=190&section=header&text=Hi%2C%20I'm%20Zameer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20%C2%B7%20Shipping%20small%20ideas%20into%20real%20products&descSize=15&descAlignY=60" alt="header" width="100%"/>
 
 <a href="https://github.com/zameernagaral">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Idea+%E2%86%92+Code+%E2%86%92+Deploy+%E2%86%92+Iterate;Learning+by+building%2C+one+project+at+a+time;Full-stack+%7C+Micro-SaaS+%7C+Dev+utilities" alt="Typing SVG" />
@@ -28,28 +28,28 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-I'm a first-year Computer Science student at **BMS College of Engineering, Bengaluru**. I like building practical software and understanding how real-world systems work, from clean interfaces to the APIs and databases behind them.
+I'm a second-year Computer Science student at **BMS College of Engineering, Bengaluru**. I like building practical software and understanding how real-world systems work, from clean interfaces to the APIs and databases behind them.
 
 Most of my projects start as tiny experiments and grow into something structured. I try to write readable code, document what I learn, and improve through feedback.
 
-### 🎯 Right now I'm
+###  Right now I'm
 
-- 📚 Strengthening my CS fundamentals: **DSA, OS, DBMS**
-- 🛠️ Building small but complete products: dashboards, utilities, mini SaaS tools
-- 🚢 Practicing the full loop: **idea → code → deploy → iterate**
+-  Strengthening my CS fundamentals: **DSA, OS, DBMS**
+-  Building small but complete products: dashboards, utilities, mini SaaS tools
+-  Practicing the full loop: **idea → code → deploy → iterate**
 
-### 💡 What excites me
+###  What excites me
 
 | | |
 |---|---|
-| 🌐 **Full-stack web development** | ⚡ **Micro-SaaS & productivity tools** |
-| 🤖 **Automations & developer utilities** | 🌱 **Turning small ideas into usable products** |
+|  **Full-stack web development** |  **Micro-SaaS & productivity tools** |
+|  **Automations & developer utilities** |  **Turning small ideas into usable products** |
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -63,14 +63,13 @@ Most of my projects start as tiny experiments and grow into something structured
 
 > Browse everything on my [repositories tab](https://github.com/zameernagaral?tab=repositories).
 
-## 🤝 Open Source & Community
+##  Open Source & Community
 
-- 🏛️ Contributing to the **BMSCE ACM Student Chapter** website and the **100 Days of Code** program under [acm-bmsce](https://github.com/acm-bmsce)
-- 🎃 Contributing during **Hacktoberfest 2026**
+-  Contributing to the **BMSCE ACM Student Chapter** website and the **100 Days of Code** program under [acm-bmsce](https://github.com/acm-bmsce)
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -107,7 +106,7 @@ Most of my projects start as tiny experiments and grow into something structured
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -122,7 +121,7 @@ Most of my projects start as tiny experiments and grow into something structured
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always open to feedback, collaboration on small products, and conversations about full-stack and micro-SaaS ideas. The fastest way to reach me is [email](mailto:zameercodes@gmail.com) or [LinkedIn](https://linkedin.com/in/zameernagaral).
 
