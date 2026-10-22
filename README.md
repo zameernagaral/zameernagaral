@@ -18,28 +18,28 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-I'm a second year Computer Science student at **BMS College of Engineering, Bengaluru**. I like building practical software and understanding how real-world systems work, from clean interfaces to the APIs and databases behind them.
+I'm a first-year Computer Science student at **BMS College of Engineering, Bengaluru**. I like building practical software and understanding how real-world systems work, from clean interfaces to the APIs and databases behind them.
 
 Most of my projects start as tiny experiments and grow into something structured. I try to write readable code, document what I learn, and improve through feedback.
 
-###  Right now I'm
+### 🎯 Right now I'm
 
--  Strengthening my CS fundamentals: **DSA, OS, DBMS**
--  Building small but complete products: dashboards, utilities, mini SaaS tools
--  Practicing the full loop: **idea → code → deploy → iterate**
+- 📚 Strengthening my CS fundamentals: **DSA, OS, DBMS**
+- 🛠️ Building small but complete products: dashboards, utilities, mini SaaS tools
+- 🚢 Practicing the full loop: **idea → code → deploy → iterate**
 
-###  What excites me
+### 💡 What excites me
 
 | | |
 |---|---|
-|  **Full-stack web development** |  **Micro-SaaS & productivity tools** |
-|  **Automations & developer utilities** |  **Turning small ideas into usable products** |
+| 🌐 **Full-stack web development** | ⚡ **Micro-SaaS & productivity tools** |
+| 🤖 **Automations & developer utilities** | 🌱 **Turning small ideas into usable products** |
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -53,13 +53,14 @@ Most of my projects start as tiny experiments and grow into something structured
 
 > Browse everything on my [repositories tab](https://github.com/zameernagaral?tab=repositories).
 
-##  Open Source & Community
+## 🤝 Open Source & Community
 
--  Contributing to the **BMSCE ACM Student Chapter** website and the **100 Days of Code** program under [acm-bmsce](https://github.com/acm-bmsce)
+- 🏛️ Contributing to the **BMSCE ACM Student Chapter** website and the **100 Days of Code** program under [acm-bmsce](https://github.com/acm-bmsce)
+- 🎃 Contributing during **Hacktoberfest 2026**
 
 ---
 
-##  Tech Stack
+## 🧰 Tech Stack
 
 **Languages**
 
@@ -96,7 +97,7 @@ Most of my projects start as tiny experiments and grow into something structured
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -111,13 +112,31 @@ Most of my projects start as tiny experiments and grow into something structured
 
 ---
 
-##  Let's Connect
+## 🎮 Contribution Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/>
+
+<img height="200" src="https://i.imgflip.com/65efzo.gif" alt="gif" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 I'm always open to feedback, collaboration on small products, and conversations about full-stack and micro-SaaS ideas. The fastest way to reach me is [email](mailto:zameercodes@gmail.com) or [LinkedIn](https://linkedin.com/in/zameernagaral).
 
 <div align="center">
 
-*Always curious, occasionally confused, steadily improving.* 
+*Always curious, occasionally confused, steadily improving.* ✨
 
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=zameernagaral&icon=0&color=0" alt="Profile views" /></a>
 
