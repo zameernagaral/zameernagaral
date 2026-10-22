@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=190&section=header&text=Hi%2C%20I'm%20Zameer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20%C2%B7%20Shipping%20small%20ideas%20into%20real%20products&descSize=15&descAlignY=60" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=190&section=header&text=Hi%2C%20I'm%20Zameer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20developer%20%C2%B7%20Shipping%20small%20ideas%20into%20real%20products&descSize=15&descAlignY=60" alt="header" width="100%"/>
 
 <a href="https://github.com/zameernagaral">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Idea+%E2%86%92+Code+%E2%86%92+Deploy+%E2%86%92+Iterate;Learning+by+building%2C+one+project+at+a+time;Full-stack+%7C+Micro-SaaS+%7C+Dev+utilities" alt="Typing SVG" />
