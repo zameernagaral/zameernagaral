@@ -16,6 +16,20 @@
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/>
+
+<img height="200" src="https://i.imgflip.com/65efzo.gif" alt="gif" />
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -107,24 +121,6 @@ Most of my projects start as tiny experiments and grow into something structured
 <br/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=zameernagaral&theme=github_dark_dimmed&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🎮 Contribution Game
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
-
-<img height="200" src="https://i.imgflip.com/65efzo.gif" alt="gif" />
 
 </div>
 
