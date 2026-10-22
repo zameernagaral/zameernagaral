@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=190&section=header&text=Hi%2C%20I'm%20Zameer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20developer%20%C2%B7%20Shipping%20small%20ideas%20into%20real%20products&descSize=15&descAlignY=60" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=190&section=header&text=Hi%2C%20I'm%20Zameer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20builder%20%C2%B7%20Shipping%20small%20ideas%20into%20real%20products&descSize=15&descAlignY=60" alt="header" width="100%"/>
 
 <a href="https://github.com/zameernagaral">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Idea+%E2%86%92+Code+%E2%86%92+Deploy+%E2%86%92+Iterate;Learning+by+building%2C+one+project+at+a+time;Full-stack+%7C+Micro-SaaS+%7C+Dev+utilities" alt="Typing SVG" />
@@ -28,28 +28,47 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-I'm a second-year Computer Science student at **BMS College of Engineering, Bengaluru**. I like building practical software and understanding how real-world systems work, from clean interfaces to the APIs and databases behind them.
+I'm a second-year Computer Science student at **BMS College of Engineering, Bengaluru**, with a strong foundation in full-stack web development. I build and ship platforms with **React, Next.js and Node.js**, and I like understanding how real-world systems work, from clean interfaces to the APIs and databases behind them.
+
+I'm part of the technical teams at the **ACM Student Chapter** and **CodeIO** at BMSCE, and I placed in the **Top 20 of 100+ teams** at the Browser Battle Hackathon.
 
 Most of my projects start as tiny experiments and grow into something structured. I try to write readable code, document what I learn, and improve through feedback.
 
-###  Right now I'm
+### 🖥️ `whoami`
 
--  Strengthening my CS fundamentals: **DSA, OS, DBMS**
--  Building small but complete products: dashboards, utilities, mini SaaS tools
--  Practicing the full loop: **idea → code → deploy → iterate**
+```ts
+const zameer = {
+  role: "CS student @ BMS College of Engineering (2025–2029)",
+  teams: ["ACM Student Chapter (Technical)", "CodeIO (Web Dev Wing)"],
+  achievement: "Top 20 / 100+ teams · Browser Battle Hackathon 🏆",
+  base: "Bengaluru, India 🇮🇳",
+  stack: ["React", "Next.js", "Node.js", "Express", "TypeScript", "Python", "MongoDB"],
+  focus: ["DSA", "OS", "DBMS", "backend architecture", "AI integration"],
+  motto: "Always curious, occasionally confused, steadily improving.",
+  status: "building something new ⚡",
+};
+```
 
-###  What excites me
+### 🎯 Right now I'm
+
+- 📚 Strengthening my CS fundamentals: **DSA, OS, DBMS**
+- 🛠️ Building small but complete products: dashboards, utilities, mini SaaS tools
+- 🏛️ Shipping event platforms for the **ACM Student Chapter** technical team
+- 🧠 Expanding backend architecture and **AI integration** skills through technical competitions
+- 🚢 Practicing the full loop: **idea → code → deploy → iterate**
+
+### 💡 What excites me
 
 | | |
 |---|---|
-|  **Full-stack web development** |  **Micro-SaaS & productivity tools** |
-|  **Automations & developer utilities** |  **Turning small ideas into usable products** |
+| 🌐 **Full-stack web development** | ⚡ **Micro-SaaS & productivity tools** |
+| 🤖 **Automations & developer utilities** | 🌱 **Turning small ideas into usable products** |
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -63,13 +82,27 @@ Most of my projects start as tiny experiments and grow into something structured
 
 > Browse everything on my [repositories tab](https://github.com/zameernagaral?tab=repositories).
 
-##  Open Source & Community
+## 💼 Experience
 
--  Contributing to the **BMSCE ACM Student Chapter** website and the **100 Days of Code** program under [acm-bmsce](https://github.com/acm-bmsce)
+| Role | Where | When |
+|---|---|---|
+| **Junior Technical Team Member** | ACM Student Chapter, BMSCE | Mar 2026 – Present |
+| **Junior Coordinator, Web Development Wing** | CodeIO, BMSCE | Nov 2025 – Present |
+
+- 🏆 At ACM, I built and deployed technical event platforms including **Dev Duel**, **DuosDash 4.0** (a web-based event scoring and leaderboard system) and **ClockedOut**, and maintain responsive React UI for the chapter's web properties.
+- 🌐 At CodeIO, I helped build 3+ responsive web apps, integrated REST APIs with React, and helped organize 2+ technical workshops.
+
+## 🏅 Highlights
+
+- 🥇 **Top 20 of 100+ teams** at the Browser Battle Hackathon (Mar 2026): built a responsive university website in 12 hours, with Cmd/Ctrl + K command navigation and Google Gemini API intent-based page routing.
+- 🤖 Took part in **AI Verse 2.0** (TensorFlow) and the **Sync Spirit Vibethon** (prompt engineering).
+- 🎪 Helped organize **Commit & Conquer** and **Athernex**.
+- 📘 Completed the **Sigma 8.0 Full Stack Web Development** course.
+- 🎃 Contributing during **Hacktoberfest 2026**.
 
 ---
 
-##  Tech Stack
+## 🧰 Tech Stack
 
 **Languages**
 
@@ -100,13 +133,14 @@ Most of my projects start as tiny experiments and grow into something structured
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -117,15 +151,25 @@ Most of my projects start as tiny experiments and grow into something structured
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=zameernagaral&theme=github_dark_dimmed&hide_border=true" alt="GitHub streak" />
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=zameernagaral&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zameernagaral&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+
 </div>
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
 I'm always open to feedback, collaboration on small products, and conversations about full-stack and micro-SaaS ideas. The fastest way to reach me is [email](mailto:zameercodes@gmail.com) or [LinkedIn](https://linkedin.com/in/zameernagaral).
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
 
 *Always curious, occasionally confused, steadily improving.* ✨
 
