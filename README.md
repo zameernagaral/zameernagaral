@@ -39,14 +39,24 @@ Most of my projects start as tiny experiments and grow into something structured
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| ⚔️ **Commit & Conquer** | A competitive platform that judges GitHub pull requests, built around the GitHub API | Node.js · Express · React · Vite |
-| 🔥 **LPG Gas Leak Detector** | An Arduino UNO-based system that detects LPG leaks and raises an alert | Arduino · Embedded C++ |
+<div align="center">
 
-> More on my [repositories tab](https://github.com/zameernagaral?tab=repositories).
+<a href="https://github.com/zameernagaral/stayEasy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zameernagaral&repo=stayEasy&theme=github_dark_dimmed&hide_border=true" alt="stayEasy" /></a>  <a href="https://github.com/zameernagaral/campusLearn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zameernagaral&repo=campusLearn&theme=github_dark_dimmed&hide_border=true" alt="campusLearn" /></a>
+
+<a href="https://github.com/zameernagaral/Commit-Conquer-GitHub-PR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zameernagaral&repo=Commit-Conquer-GitHub-PR&theme=github_dark_dimmed&hide_border=true" alt="Commit-Conquer-GitHub-PR" /></a>  <a href="https://github.com/zameernagaral/MedMedia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zameernagaral&repo=MedMedia&theme=github_dark_dimmed&hide_border=true" alt="MedMedia" /></a>
+
+<a href="https://github.com/zameernagaral/secretlessCode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zameernagaral&repo=secretlessCode&theme=github_dark_dimmed&hide_border=true" alt="secretlessCode" /></a>  <a href="https://github.com/zameernagaral/Real-time-Mood-Monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zameernagaral&repo=Real-time-Mood-Monitor&theme=github_dark_dimmed&hide_border=true" alt="Real-time-Mood-Monitor" /></a>
+
+</div>
+
+> Browse everything on my [repositories tab](https://github.com/zameernagaral?tab=repositories).
+
+## 🤝 Open Source & Community
+
+- 🏛️ Contributing to the **BMSCE ACM Student Chapter** website and the **100 Days of Code** program under [acm-bmsce](https://github.com/acm-bmsce)
+- 🎃 Contributing during **Hacktoberfest 2026**
 
 ---
 
@@ -57,6 +67,8 @@ Most of my projects start as tiny experiments and grow into something structured
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
