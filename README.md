@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a second-year Computer Science student at **BMS College of Engineering, Bengaluru**, with a strong foundation in full-stack web development. I build and ship platforms with **React, Next.js and Node.js**, and I like understanding how real-world systems work, from clean interfaces to the APIs and databases behind them.
 
@@ -36,39 +36,39 @@ I'm part of the technical teams at the **ACM Student Chapter** and **CodeIO** at
 
 Most of my projects start as tiny experiments and grow into something structured. I try to write readable code, document what I learn, and improve through feedback.
 
-### 🖥️ `whoami`
+###  About Me
 
 ```ts
 const zameer = {
   role: "CS student @ BMS College of Engineering (2025–2029)",
   teams: ["ACM Student Chapter (Technical)", "CodeIO (Web Dev Wing)"],
-  achievement: "Top 20 / 100+ teams · Browser Battle Hackathon 🏆",
-  base: "Bengaluru, India 🇮🇳",
+  achievement: "Top 20 / 100+ teams · Browser Battle Hackathon ",
+  base: "Bengaluru, India ",
   stack: ["React", "Next.js", "Node.js", "Express", "TypeScript", "Python", "MongoDB"],
   focus: ["DSA", "OS", "DBMS", "backend architecture", "AI integration"],
   motto: "Always curious, occasionally confused, steadily improving.",
-  status: "building something new ⚡",
+  status: "building something new ",
 };
 ```
 
-### 🎯 Right now I'm
+###  Right now I'm
 
-- 📚 Strengthening my CS fundamentals: **DSA, OS, DBMS**
-- 🛠️ Building small but complete products: dashboards, utilities, mini SaaS tools
-- 🏛️ Shipping event platforms for the **ACM Student Chapter** technical team
-- 🧠 Expanding backend architecture and **AI integration** skills through technical competitions
-- 🚢 Practicing the full loop: **idea → code → deploy → iterate**
+-  Strengthening my CS fundamentals: **DSA, OS, DBMS**
+-  Building small but complete products: dashboards, utilities, mini SaaS tools
+-  Shipping event platforms for the **ACM Student Chapter** technical team
+-  Expanding backend architecture and **AI integration** skills through technical competitions
+-  Practicing the full loop: **idea → code → deploy → iterate**
 
-### 💡 What excites me
+###  What excites me
 
 | | |
 |---|---|
-| 🌐 **Full-stack web development** | ⚡ **Micro-SaaS & productivity tools** |
-| 🤖 **Automations & developer utilities** | 🌱 **Turning small ideas into usable products** |
+|  **Full-stack web development** |  **Micro-SaaS & productivity tools** |
+|  **Automations & developer utilities** |  **Turning small ideas into usable products** |
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -82,27 +82,27 @@ const zameer = {
 
 > Browse everything on my [repositories tab](https://github.com/zameernagaral?tab=repositories).
 
-## 💼 Experience
+##  Experience
 
 | Role | Where | When |
 |---|---|---|
 | **Junior Technical Team Member** | ACM Student Chapter, BMSCE | Mar 2026 – Present |
 | **Junior Coordinator, Web Development Wing** | CodeIO, BMSCE | Nov 2025 – Present |
 
-- 🏆 At ACM, I built and deployed technical event platforms including **Dev Duel**, **DuosDash 4.0** (a web-based event scoring and leaderboard system) and **ClockedOut**, and maintain responsive React UI for the chapter's web properties.
-- 🌐 At CodeIO, I helped build 3+ responsive web apps, integrated REST APIs with React, and helped organize 2+ technical workshops.
+-  At ACM, I built and deployed technical event platforms including **Dev Duel**, **DuosDash 4.0** (a web-based event scoring and leaderboard system) and **ClockedOut**, and maintain responsive React UI for the chapter's web properties.
+-  At CodeIO, I helped build 3+ responsive web apps, integrated REST APIs with React, and helped organize 2+ technical workshops.
 
-## 🏅 Highlights
+##  Highlights
 
-- 🥇 **Top 20 of 100+ teams** at the Browser Battle Hackathon (Mar 2026): built a responsive university website in 12 hours, with Cmd/Ctrl + K command navigation and Google Gemini API intent-based page routing.
-- 🤖 Took part in **AI Verse 2.0** (TensorFlow) and the **Sync Spirit Vibethon** (prompt engineering).
-- 🎪 Helped organize **Commit & Conquer** and **Athernex**.
-- 📘 Completed the **Sigma 8.0 Full Stack Web Development** course.
-- 🎃 Contributing during **Hacktoberfest 2026**.
+-  **Top 20 of 100+ teams** at the Browser Battle Hackathon (Mar 2026): built a responsive university website in 12 hours, with Cmd/Ctrl + K command navigation and Google Gemini API intent-based page routing.
+-  Took part in **AI Verse 2.0** (TensorFlow) and the **Sync Spirit Vibethon** (prompt engineering).
+-  Helped organize **Commit & Conquer** and **Athernex**.
+-  Completed the **Sigma 8.0 Full Stack Web Development** course.
+-  Contributing during **Hacktoberfest 2026**.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -140,7 +140,7 @@ const zameer = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -163,7 +163,7 @@ const zameer = {
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always open to feedback, collaboration on small products, and conversations about full-stack and micro-SaaS ideas. The fastest way to reach me is [email](mailto:zameercodes@gmail.com) or [LinkedIn](https://linkedin.com/in/zameernagaral).
 
