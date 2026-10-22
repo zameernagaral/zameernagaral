@@ -24,10 +24,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zameernagaral/zameernagaral/output/pacman-contribution-graph.svg">
 </picture>
 
-<br/>
-
-<img height="200" src="https://i.imgflip.com/65efzo.gif" alt="gif" />
-
 </div>
 
 ---
