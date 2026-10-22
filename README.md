@@ -149,15 +149,7 @@ const zameer = {
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=zameernagaral&theme=github_dark_dimmed&hide_border=true" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zameernagaral&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zameernagaral&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
 
 </div>
 
@@ -173,7 +165,7 @@ I'm always open to feedback, collaboration on small products, and conversations 
 
 *Always curious, occasionally confused, steadily improving.* ✨
 
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=zameernagaral&icon=0&color=0" alt="Profile views" /></a>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=100&section=footer" alt="footer" width="100%"/>
 
